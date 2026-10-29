@@ -145,4 +145,4 @@ Aspiring Data Analyst | Excel | SQL | Power BI | Data Visualization
 
 Here is a preview of the customer analytics dashboard developed using Microsoft Excel.
 
-![Energy House Customer Analytics Dashboard](customer-dashboard.png)
+![Energy House Customer Analytics Dashboard](images/customer-dashboard.png)
