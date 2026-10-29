@@ -22,7 +22,7 @@ The analysis focuses on answering the following business questions:
 * How do acquisition channels relate to customer purchasing behavior?
 * What strategies could help convert one-time buyers into repeat customers?
 
-Dataset Overview
+### Dataset Overview
 
 The dataset contains simulated Nigerian e-commerce transaction data.
 
@@ -35,7 +35,7 @@ Data type	Simulated transaction data
 
 The dataset includes customer identifiers, order information, acquisition channels, geographic regions, revenue, gross profit, customer ratings, and customer segments.
 
-Tools & Skills
+### Tools & Skills
 
 * Microsoft Excel
 * Data Cleaning
@@ -46,7 +46,7 @@ Tools & Skills
 * Business Intelligence
 * Dashboard Development
 
-Project Workflow
+### Project Workflow
 
 1. Data Cleaning
 
@@ -111,11 +111,11 @@ Based on the analytical objectives, potential business strategies include:
 
 These recommendations should be validated through further analysis and, where possible, controlled experiments.
 
-Project Files
+### Project Files
 
 * Excel Workbook: Contains the dashboard, cleaned dataset, data cleaning log, customer summaries, and supporting analysis.
 
-Project Limitations
+### Project Limitations
 
 * The dataset is simulated and does not represent verified transactions from a real business.
 * The analysis identifies patterns and relationships but does not establish causation.
@@ -129,7 +129,7 @@ My contribution: I dealt with the data cleaning where i removed blanks and ensur
 
 The project demonstrates practical application of Excel-based data analytics, customer segmentation, and business reporting.
 
-Author
+### Author
 
 Samuel David Toluwalase
 
