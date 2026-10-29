@@ -2,7 +2,7 @@
 Excel based customer segmentation and retention analysis for a simulated Nigerian e-commerce business.
 Energy House — Customer Segmentation & Retention Analysis
 
-# Project Overview
+### Project Overview
 
 This project explores customer purchasing behavior for Energy House, a simulated Nigerian e-commerce business.
 
