@@ -141,4 +141,6 @@ Aspiring Data Analyst | Excel | SQL | Power BI | Data Visualization
 
 ## Dashboard Preview
 
-![Energy House Customer Analytics Dashboard](Customer-Dashboard.png)
+Here is a visual preview of the customer analytics dashboard developed using Excel.
+
+![Energy House Customer Analytics Dashboard](Customer%20Dashboard.png)
