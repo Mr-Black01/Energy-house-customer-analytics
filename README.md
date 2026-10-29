@@ -10,7 +10,7 @@ The objective was to analyze customer segments, understand purchasing patterns, 
 
 The project was completed collaboratively as a team data analytics project using Microsoft Excel.
 
-Business Problem
+### Business Problem
 
 Energy House needs to understand its customers beyond total sales figures.
 
