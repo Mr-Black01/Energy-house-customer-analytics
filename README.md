@@ -141,4 +141,4 @@ Aspiring Data Analyst | Excel | SQL | Power BI | Data Visualization
 
 ## Dashboard Preview
 
-![Energy House Customer Analytics Dashboard](Customer%20Dashboard.png)
+![Energy House Customer Analytics Dashboard](Customer Dashboard.png)
