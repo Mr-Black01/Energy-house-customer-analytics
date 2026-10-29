@@ -138,3 +138,11 @@ Samuel David Toluwalase
 Github Profile:https://github.com/Mr-Black01
 Aspiring Data Analyst | Excel | SQL | Power BI | Data Visualization
 
+
+---
+
+## Dashboard Preview
+
+Here is a preview of the customer analytics dashboard developed using Microsoft Excel.
+
+![Energy House Customer Analytics Dashboard](customer-dashboard.png)
