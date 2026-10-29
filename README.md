@@ -100,7 +100,7 @@ The project investigates:
 
 Detailed findings and supporting visualizations are available in the Excel workbook.
 
-Business Recommendations
+### Business Recommendations
 
 Based on the analytical objectives, potential business strategies include:
 
@@ -121,7 +121,7 @@ These recommendations should be validated through further analysis and, where po
 * The analysis identifies patterns and relationships but does not establish causation.
 * Additional data, such as marketing costs and customer acquisition costs, would improve channel profitability analysis.
 
-Team Project & Contribution
+### Team Project & Contribution
 
 This project was completed collaboratively as part of a team data analytics assignment.
 
